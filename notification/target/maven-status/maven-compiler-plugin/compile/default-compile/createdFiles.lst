@@ -1,0 +1,8 @@
+com\levantos\notification\Notification.class
+com\levantos\notification\NotificationConfig.class
+com\levantos\notification\NotificationService.class
+com\levantos\notification\NotificationApplication.class
+com\levantos\notification\rabbitmq\NotificationConsumer.class
+com\levantos\notification\Notification$NotificationBuilder.class
+com\levantos\notification\NotificationController.class
+com\levantos\notification\NotificationRepository.class

@@ -1,0 +1,6 @@
+com\levantos\fraud\FraudCheckHistory$FraudCheckHistoryBuilder.class
+com\levantos\fraud\FraudCheckHistory.class
+com\levantos\fraud\FraudCheckHistoryRepository.class
+com\levantos\fraud\FraudApplication.class
+com\levantos\fraud\FraudCheckService.class
+com\levantos\fraud\FraudController.class

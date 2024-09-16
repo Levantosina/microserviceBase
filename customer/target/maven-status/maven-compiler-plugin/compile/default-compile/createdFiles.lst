@@ -1,0 +1,8 @@
+com\levantos\customer\CustomerConfig.class
+com\levantos\customer\CustomerRegistrationRequest.class
+com\levantos\customer\Customer.class
+com\levantos\customer\CustomerService.class
+com\levantos\customer\Customer$CustomerBuilder.class
+com\levantos\customer\CustomerApplication.class
+com\levantos\customer\CustomerRepository.class
+com\levantos\customer\CustomerController.class
