@@ -3,11 +3,10 @@ package com.levantos.customer;
 import com.levantos.ampq.RabbitMqMessageProducer;
 import com.levantos.clients.fraud.FraudCheckResponse;
 import com.levantos.clients.fraud.FraudClient;
-import com.levantos.clients.notification.NotificationClient;
 import com.levantos.clients.notification.NotificationRequest;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
-import org.springframework.web.client.RestTemplate;
+
 
 
 @Service
