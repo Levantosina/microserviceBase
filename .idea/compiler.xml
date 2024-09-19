@@ -12,13 +12,13 @@
         <module name="clients" />
         <module name="fraud" />
         <module name="amqp" />
-        <module name="k8s" />
         <module name="eureka-server" />
         <module name="customer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="eurika-server" target="21" />
+      <module name="k8s" target="21" />
       <module name="my-app" target="21" />
     </bytecodeTargetLevel>
   </component>

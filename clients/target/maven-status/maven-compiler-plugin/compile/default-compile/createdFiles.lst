@@ -1,4 +1,4 @@
+com\levantos\clients\notification\NotificationClient.class
 com\levantos\clients\fraud\FraudClient.class
 com\levantos\clients\notification\NotificationRequest.class
 com\levantos\clients\fraud\FraudCheckResponse.class
-com\levantos\clients\notification\NotificationClient.class
